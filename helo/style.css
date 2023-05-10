@@ -1,0 +1,17 @@
+#Infraestrutura{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+#turmas{display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+#info{display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+#endereco{
+    font-size: 10px;
+}
